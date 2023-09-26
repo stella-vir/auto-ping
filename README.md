@@ -1,1 +1,1 @@
-# auto-ping
+# auto-ping script
